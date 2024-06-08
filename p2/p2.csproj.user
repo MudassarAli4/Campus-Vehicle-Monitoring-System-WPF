@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="admin1.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="bus_register.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="enrtypage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="InOutWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="manageAdmin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="manageGuard.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="report.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SuperAdmin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="admin1.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="bus_register.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="enrtypage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="InOutWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="manageAdmin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="manageGuard.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="report.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SuperAdmin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

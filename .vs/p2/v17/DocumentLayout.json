@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Semester_6\\p2\\p2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C70CDBAD-88AA-4A19-9089-CBF245CA9B16}|p2\\p2.csproj|f:\\semester_6\\p2\\p2\\p2\\manageadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70CDBAD-88AA-4A19-9089-CBF245CA9B16}|p2\\p2.csproj|solutionrelative:p2\\manageadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70CDBAD-88AA-4A19-9089-CBF245CA9B16}|p2\\p2.csproj|F:\\Semester_6\\p2\\p2\\p2\\manageadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C70CDBAD-88AA-4A19-9089-CBF245CA9B16}|p2\\p2.csproj|solutionrelative:p2\\manageadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70CDBAD-88AA-4A19-9089-CBF245CA9B16}|p2\\p2.csproj|F:\\Semester_6\\p2\\p2\\p2\\manageguard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C70CDBAD-88AA-4A19-9089-CBF245CA9B16}|p2\\p2.csproj|solutionrelative:p2\\manageguard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70CDBAD-88AA-4A19-9089-CBF245CA9B16}|p2\\p2.csproj|F:\\Semester_6\\p2\\p2\\p2\\admin1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C70CDBAD-88AA-4A19-9089-CBF245CA9B16}|p2\\p2.csproj|solutionrelative:p2\\admin1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70CDBAD-88AA-4A19-9089-CBF245CA9B16}|p2\\p2.csproj|F:\\Semester_6\\p2\\p2\\p2\\superadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C70CDBAD-88AA-4A19-9089-CBF245CA9B16}|p2\\p2.csproj|solutionrelative:p2\\superadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70CDBAD-88AA-4A19-9089-CBF245CA9B16}|p2\\p2.csproj|F:\\Semester_6\\p2\\p2\\p2\\superadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70CDBAD-88AA-4A19-9089-CBF245CA9B16}|p2\\p2.csproj|solutionrelative:p2\\superadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70CDBAD-88AA-4A19-9089-CBF245CA9B16}|p2\\p2.csproj|F:\\Semester_6\\p2\\p2\\p2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C70CDBAD-88AA-4A19-9089-CBF245CA9B16}|p2\\p2.csproj|solutionrelative:p2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "manageAdmin.xaml.cs",
+              "DocumentMoniker": "F:\\Semester_6\\p2\\p2\\p2\\manageAdmin.xaml.cs",
+              "RelativeDocumentMoniker": "p2\\manageAdmin.xaml.cs",
+              "ToolTip": "F:\\Semester_6\\p2\\p2\\p2\\manageAdmin.xaml.cs",
+              "RelativeToolTip": "p2\\manageAdmin.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T06:12:33.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "manageGuard.xaml",
+              "DocumentMoniker": "F:\\Semester_6\\p2\\p2\\p2\\manageGuard.xaml",
+              "RelativeDocumentMoniker": "p2\\manageGuard.xaml",
+              "ToolTip": "F:\\Semester_6\\p2\\p2\\p2\\manageGuard.xaml",
+              "RelativeToolTip": "p2\\manageGuard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T06:11:55.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "manageAdmin.xaml",
+              "DocumentMoniker": "F:\\Semester_6\\p2\\p2\\p2\\manageAdmin.xaml",
+              "RelativeDocumentMoniker": "p2\\manageAdmin.xaml",
+              "ToolTip": "F:\\Semester_6\\p2\\p2\\p2\\manageAdmin.xaml",
+              "RelativeToolTip": "p2\\manageAdmin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T06:11:50.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SuperAdmin.xaml.cs",
+              "DocumentMoniker": "F:\\Semester_6\\p2\\p2\\p2\\SuperAdmin.xaml.cs",
+              "RelativeDocumentMoniker": "p2\\SuperAdmin.xaml.cs",
+              "ToolTip": "F:\\Semester_6\\p2\\p2\\p2\\SuperAdmin.xaml.cs",
+              "RelativeToolTip": "p2\\SuperAdmin.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwCcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T06:10:22.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SuperAdmin.xaml",
+              "DocumentMoniker": "F:\\Semester_6\\p2\\p2\\p2\\SuperAdmin.xaml",
+              "RelativeDocumentMoniker": "p2\\SuperAdmin.xaml",
+              "ToolTip": "F:\\Semester_6\\p2\\p2\\p2\\SuperAdmin.xaml",
+              "RelativeToolTip": "p2\\SuperAdmin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T06:09:18.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "F:\\Semester_6\\p2\\p2\\p2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "p2\\MainWindow.xaml",
+              "ToolTip": "F:\\Semester_6\\p2\\p2\\p2\\MainWindow.xaml",
+              "RelativeToolTip": "p2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T05:42:30.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "admin1.xaml",
+              "DocumentMoniker": "F:\\Semester_6\\p2\\p2\\p2\\admin1.xaml",
+              "RelativeDocumentMoniker": "p2\\admin1.xaml",
+              "ToolTip": "F:\\Semester_6\\p2\\p2\\p2\\admin1.xaml",
+              "RelativeToolTip": "p2\\admin1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-05T10:36:10.577Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
